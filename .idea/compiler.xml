@@ -9,5 +9,6 @@
         <module name="docker-jenkins-integration-sample" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="11" />
   </component>
 </project>
